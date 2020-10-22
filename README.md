@@ -9,3 +9,5 @@ yarn
 yarn start
 ```
 
+Once the script is started a QR code will appear. You need to scan the QR code with your WhatsApp scanner (like WhatsApp Web), then the list of unknown contacts will be available in the `out` folder as a `.csv` file.
+
